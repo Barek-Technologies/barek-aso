@@ -1,0 +1,39 @@
+{
+  "name": "barek-aso",
+  "version": "1.0.0",
+  "description": "Agent skill: research what ranks on the App Store and write name, subtitle, keywords and descriptions for Apple and Google Play (ASO + SEO)",
+  "type": "module",
+  "bin": {
+    "barek-aso": "bin/install.mjs"
+  },
+  "files": [
+    "SKILL.md",
+    "references",
+    "scripts",
+    "bin"
+  ],
+  "keywords": [
+    "claude-code",
+    "agent-skills",
+    "claude-skill",
+    "aso",
+    "app-store-optimization",
+    "seo",
+    "app-store",
+    "google-play",
+    "keywords"
+  ],
+  "homepage": "https://github.com/Barek-Technologies/barek-aso#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barek-Technologies/barek-aso.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Barek-Technologies/barek-aso/issues"
+  },
+  "author": "Barek Technologies Limited",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
